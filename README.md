@@ -24,7 +24,7 @@ Tasks:
 # Milestone 2
 * Status : **Completed**
 * Description : Point-to-Point Trajectory Generation for end effector
-Achieved Tasks :
+* Achieved Tasks :
 1. **Quintic Time Scaling** : Implemented Quintic time scaling for Trajectory generation
 2. **Discrete Point-to-Point Trajectory Generation** : Computing set of N SE(3) configuration matrices for point-to-point movement of end-effector
 
