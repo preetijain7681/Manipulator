@@ -14,7 +14,7 @@ Tasks:
 
 
 # Milestone 1 
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
+![IMAGE ALT TEXT HERE](https://youtu.be/35IWMIz1MxU)]
 * Status : **Completed**
 * Description : Odometry for Mobile Manipulator
 * Achieved Tasks :
