@@ -14,7 +14,7 @@ Tasks:
 
 
 # Milestone 1 
-![IMAGE ALT TEXT HERE](https://youtu.be/35IWMIz1MxU)]
+[**Video of Final Scene**](https://youtu.be/35IWMIz1MxU)  
 * Status : **Completed**
 * Description : Odometry for Mobile Manipulator
 * Achieved Tasks :
@@ -24,6 +24,7 @@ Tasks:
 
 
 # Milestone 2
+[**Video of Final Scene**](https://youtu.be/TO-ZnmxWqNg)
 * Status : **Completed**
 * Description : Point-to-Point Trajectory Generation for end effector
 * Achieved Tasks :
