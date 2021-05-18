@@ -13,13 +13,15 @@ Tasks:
 
 
 
-# Milestone 1
+# Milestone 1 
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
 * Status : **Completed**
 * Description : Odometry for Mobile Manipulator
 * Achieved Tasks :
 1. **Design** : Designing 5 DoF mobile manipulator arm
 2. **Kinematics** : Understanding Kinematics of mobile manipulator chassis
 3. **Odometry** : Implementing Odometry for Mobile Manipulator chassis
+
 
 # Milestone 2
 * Status : **Completed**
