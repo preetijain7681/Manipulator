@@ -9,13 +9,14 @@ Tasks:
 # Progress Report
 - [Progress Report](#progress-report)
 - [Milestone 1 : Kinematics of Mobile Manipulator](#milestone-1)
+- [Milestone 2 : Trajectory Generation](#milestone-2)
 
 
 
 
 # Milestone 1
 Status : **Completed**
-Description : 
+Description : Odometry for Mobile Manipulator
 Achieved Tasks :
 **1. Design** : Designing 5 DoF mobile manipulator arm
 **2. Kinematics** : Understanding Kinematics of mobile manipulator chassis
@@ -23,7 +24,7 @@ Achieved Tasks :
 
 # Milestone 2
 Status : **Completed**
-Description : 
+Description : Point-to-Point Trajectory Generation for end effector
 Achieved Tasks :
 **1. Quintic Time Scaling** : Implemented Quintic time scaling for Trajectory generation
 **2. Discrete Point-to-Point Trajectory Generation** : Computing set of N SE(3) configuration matrices for point-to-point movement of end-effector
